@@ -25,7 +25,7 @@ This project is a multi-agent news aggregation system that:
 ## Milestone Progress
 - [x] M0: Setup & Architecture
 - [x] M1: Async News Fetcher
-- [x] M2: SOLID Refactoring
+- [ ] M2: SOLID Refactoring
 - [ ] M3: AI Agent with Tools
 - [ ] M4: MCP-Powered Pipeline
 - [ ] M5: Evaluation & Docs
